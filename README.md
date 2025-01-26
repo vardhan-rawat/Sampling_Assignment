@@ -2,7 +2,7 @@
 # Credit Card Data Analysis
 
 This project involves the analysis of credit card data for various statistical and data science tasks. The repository includes:
-- A Jupyter Notebook file for analysis and visualization (`102203381_vaibhav_garg.ipynb`).
+- A Jupyter Notebook file for analysis and visualization (`102203268_Vardhan_Singh_Rawat.ipynb`).
 - A dataset file (`Creditcard_data.csv`) for experiments and processing.
 
 ## Table of Contents
